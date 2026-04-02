@@ -14,11 +14,9 @@
 
 WelCome to my Github profile!!
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Undo-Corder&show_icons=true&locale=ja&layout=compact&theme=chartreuse-dark" alt="Top Languages" /></p>
+[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username={Undo-Coder})](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Undo-Corder&show_icons=true&locale=ja&theme=chartreuse-dark" alt="GitHub Stats" width="410" /></p>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Undo-Corder&theme=juicyfresh&no-bg=true" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username={Undo-Coder})](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="border:solid 1px;border-radius:10px;">
 <b style="font-size:20px;">About Me</b>
