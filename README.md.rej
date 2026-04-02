@@ -1,0 +1,10 @@
+diff a/README.md b/README.md	(rejected hunks)
+@@ -7,2 +7,6 @@
+ - **Languages**: C#,Python
+ - **Frameworks**: .Net, Unity
+\ No newline at end of file
++- **Tools**: Visual Studio, VS Code
++
++![GitHub followers](https://img.shields.io/github/followers/username?label=Follow&style=social)
++![Twitter Follow](https://img.shields.io/twitter/follow/username?style=social)
+\ No newline at end of file
