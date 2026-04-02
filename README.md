@@ -1,3 +1,9 @@
-# Undo-Coder
+# Hello, I'm Chikara!
 
-<h1>WelCome to my Github profile!!</h1>
+WelCome to my Github profile!!
+
+## Skills
+
+- **Languages**: C#,Python
+- **Frameworks**: .Net, Unity
+- **Tools**: Visual Studio, VS Code
